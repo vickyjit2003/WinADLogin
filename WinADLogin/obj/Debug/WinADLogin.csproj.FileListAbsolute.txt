@@ -1,0 +1,130 @@
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\WinADLogin.dll.config
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\WinADLogin.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\WinADLogin.pdb
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\csc.exe
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\csc.exe.config
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\csc.rsp
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\csi.exe
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\csi.exe.config
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\csi.rsp
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.AppContext.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Console.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.IO.Compression.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.IO.Pipes.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Security.Claims.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.ValueTuple.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Xml.XPath.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\vbc.exe
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\vbc.exe.config
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\vbc.rsp
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\VBCSCompiler.exe
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\Antlr3.Runtime.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\Newtonsoft.Json.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\System.Web.Optimization.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\WebGrease.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\Antlr3.Runtime.pdb
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\Newtonsoft.Json.xml
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\System.Web.Optimization.xml
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\obj\Debug\WinADLogin.csprojAssemblyReference.cache
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\obj\Debug\WinADLogin.csproj.CoreCompileInputs.cache
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\obj\Debug\WinADLogin.csproj.CopyComplete
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\obj\Debug\WinADLogin.dll
+D:\Git\To Client\AWS LoginProject\WinADLogin\WinADLogin\obj\Debug\WinADLogin.pdb
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\WinADLogin.dll.config
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\WinADLogin.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\WinADLogin.pdb
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\csc.exe
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\csc.exe.config
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\csc.rsp
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\csi.exe
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\csi.exe.config
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\csi.rsp
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.AppContext.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Console.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.IO.Compression.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.IO.Pipes.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Security.Claims.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.ValueTuple.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Xml.XPath.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\vbc.exe
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\vbc.exe.config
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\vbc.rsp
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\VBCSCompiler.exe
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\Antlr3.Runtime.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\Newtonsoft.Json.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\System.Web.Optimization.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\WebGrease.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\Antlr3.Runtime.pdb
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\Newtonsoft.Json.xml
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\System.Web.Optimization.xml
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\obj\Debug\WinADLogin.csprojAssemblyReference.cache
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\obj\Debug\WinADLogin.csproj.CoreCompileInputs.cache
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\obj\Debug\WinADLogin.csproj.CopyComplete
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\obj\Debug\WinADLogin.dll
+D:\Git\To Client\AWS LoginProject\Deepak\Not in iis\WinADLogin\WinADLogin\obj\Debug\WinADLogin.pdb

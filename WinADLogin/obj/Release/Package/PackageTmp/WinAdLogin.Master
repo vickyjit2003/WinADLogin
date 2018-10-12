@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="WinAdLogin.master.cs" Inherits="WinADLogin.WinAdLogin" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IDEXCEL</title>
+    <asp:PlaceHolder runat="server">
+        <%: System.Web.Optimization.Scripts.Render("~/bundle/js") %>
+    </asp:PlaceHolder>
+    <%: System.Web.Optimization.Styles.Render("~/bundle/css") %>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager ID="ScriptManagerPuyAllUp" runat="server"></asp:ScriptManager>
+        <asp:Timer ID="ClockTimer" runat="server" Interval="60000" OnTick="ClockTimer_Tick"></asp:Timer>
+        <div class="container">
+            <div style="position: fixed; border: dotted 2px; z-index: 1">
+                <asp:UpdatePanel ID="updatepnlTime" UpdateMode="Conditional" runat="server" ViewStateMode="Enabled">
+                    <ContentTemplate>
+                        <asp:Button Style="display: none;" runat="server" ID="btnSession" Text="Reload" OnClick="btnSession_Click" />
+                    </ContentTemplate>
+                    <Triggers>
+                        <asp:AsyncPostBackTrigger ControlID="ClockTimer" EventName="Tick" />
+                    </Triggers>
+                </asp:UpdatePanel>
+            </div>
+        </div>
+        <asp:UpdatePanel ID="UpdatePanel1" UpdateMode="Conditional" runat="server" ViewStateMode="Enabled">
+            <ContentTemplate>
+                <div runat="server" class="container-fluid remopadingmargin">
+                    <asp:HiddenField ID="hfUserFullName" Value="" runat="server" />
+                    <asp:HiddenField ID="hfAdUsername" Value="" runat="server" />
+                    <div style="" class="row hederbgcolor">
+                        <div class="col-md-2 col-lg-2 ">
+                            <asp:Image runat="server" ImageUrl="~/Images/Others/idexcellogob.png" CssClass="imglogo" />
+                            <%-- <p class="logotext">IDEXCEL</p>--%>
+                        </div>
+                        <div class="col-md-8 col-lg-8">
+                            <%--<span runat="server" id="Span1" ><%= DateTime.Now.ToString("yyyy")%> </span>--%>
+                            <h2>Idexcel Technologies Pvt Ltd. <span runat="server" id="SpanCDRyear"></span>&nbsp;<span id="spnhdrContact" runat="server" style="pointer-events: none"></span></h2>
+                        </div>
+                        <div class="col-md-2 col-lg-2">
+                            <div style="/*float: left; */ padding-top: 25px; padding-left: 21px;">
+                                <asp:Image runat="server" ImageUrl="~/Images/Others/Time.png" CssClass="imgusertime" />
+                                <span><%= DateTime.Now.ToString("MMM dd yyyy")%> </span>
+                                <asp:Label ClientIDMode="Static" ID="lblcurrenttime" runat="server" Text=""></asp:Label>
+                            </div>
+                            <div class="divuser cursor">
+                                <span class="cd-downarrow glyphicon glyphicon-chevron-down"></span>
+                                <asp:Image runat="server" ImageUrl="~/Images/Login/UserIconC.png" CssClass="imgusertime" onclick="toglelogdiv();" />
+                                <div class="divgaplogout">
+                                    <div runat="server" id="divlogout" class="divlogout">
+                                        <asp:LinkButton runat="server" ID="Logout" OnClick="Logout_Click" Style="font-weight: bold; text-decoration: none; top: 12px; position: relative">
+                                Logout
+                                <asp:Image runat="server" ImageUrl="~/Images/Login/Logout.png" CssClass="imgusertime" />
+                                        </asp:LinkButton>
+                                    </div>
+                                </div>
+                                <asp:Label runat="server" ID="UserName" CssClass="Username"> </asp:Label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2 col-lg-2 " id="Toggletd" class="menutd menuheight" style="z-index: 10000;">
+                            <div id="PuyallupMenu" style="float: left; background-color: #428bca; height: 88vh;">
+                                <ul class="level1 static" tabindex="0" role="menu" style="position: relative; width: auto; float: left;">
+                                    <li runat="server" id="ManageUser" class="static" role="menuitem" style="position: relative;">
+                                        <a class="popout level1 static" href="#" onclick="__doPostBack('ctl00$PuyallupMenu','Manage User')" tabindex="-1"><span class="glyphicon glyphicon-user menuiconpdng"></span>Admin
+                                        </a>
+                                    </li>
+                                    <li runat="server" id="CDR" class="static" role="menuitem" style="position: relative;" visible="true">
+                                        <a class="popout level1 static" tabindex="-1"><span class="glyphicon glyphicon-list menuiconpdng"></span>User Details
+                                        </a>
+                                    </li>
+                                    <li runat="server" id="Adminreportli" role="menuitem" class="static" style="position: relative;" visible="true">
+                                        <asp:LinkButton ID="AdminReport" runat="server" class="level1 static" TabIndex="-1"> <span class="glyphicon glyphicon-list-alt menuiconpdng"></span>Reports</asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="divparentscroll" class="col-md-10 col-lg-10" valign="top" style="padding-left: 20px; overflow: auto; max-height: 84vh;">
+                            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </div>
+                </div>
+            </ContentTemplate>
+        </asp:UpdatePanel>
+    </form>
+    <script>
+        $(document).ready(function () {
+            ShowTime();
+            var SetDatetime = setInterval(ShowTime, 1000 * 2);
+            function ShowTime() {
+                DateFormate = moment().format("LT");//("LT","LTS ,lll")
+                $("#lblcurrenttime").html(DateFormate);
+            }
+        });
+    </script>
+    <div class="footer">
+        <p>&copy;2018 Idexcel, Inc. All Rights Reserved.</p>
+    </div>
+</body>
+</html>
